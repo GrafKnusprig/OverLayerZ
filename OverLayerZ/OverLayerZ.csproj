@@ -14,6 +14,7 @@
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
     <PublishUrl>D:\GitHub\GrafKnusprig\ClickOnce\OverLayerZ\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
@@ -28,9 +29,8 @@
     <ProductName>OverLayerZ</ProductName>
     <PublisherName>GrafKnusprig</PublisherName>
     <SuiteName>GraphicTools</SuiteName>
-    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>true</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
